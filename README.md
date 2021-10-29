@@ -1,1 +1,1 @@
-# coda
+# Coda | Fullpage Scrolling Template
